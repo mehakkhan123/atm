@@ -1,6 +1,6 @@
 {
-  "name": "mehakkhan-atm",
-  "version": "2.3.2",
+  "name": "mehak_khan-atm",
+  "version": "4.3.3",
   "description": "\"Automated Teller Machine(ATM) using TypeScript, Node.js and Inquirer.\"",
   "main": "index.js",
   "type": "module",
